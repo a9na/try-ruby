@@ -30,15 +30,17 @@ Each lesson provides a practical introduction to a new concept in Ruby. Here's w
 ## 🚀 Getting Started
 
 1. Clone the repository to your local machine:
-   ```bash
+   ```
    git clone https://github.com/a9na/try-ruby.git
-   '''
+   ```
 
 2. Open the Ruby files in your favorite code editor.
+
 3. Run the Ruby scripts directly in your terminal to see them in action! 💻
-  ```bash
-  ruby <filename>.rb
-  ```
+     ```
+     ruby <filename>.rb
+     ```
+
 ## Ruby Resources 📚
 
 To continue your Ruby learning journey, here are some official Ruby resources:
